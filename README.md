@@ -8,6 +8,6 @@ This is partial implementation of [tutorial](https://catlikecoding.com/unity/tut
 
 ---
 
-![Prefab ](docs/images/maze-prefab.png)
+![Prefab](docs/images/maze-prefab.png)
 
-![Demo](.docs/images/room-growth.gif)
+![Demo](docs/images/room-growth.gif)
